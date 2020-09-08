@@ -8,7 +8,7 @@ My research interests involve high-performance electric machine control techniqu
 
 #### Advanced Motor Drive Controller (AMDC)
 
-I am the lead architect for the Advanced Motor Drive Controller (AMDC) platform.
+I am the lead architect for the Advanced Motor Drive Controller (AMDC) platform &mdash; [www.amdc.dev](https://amdc.dev/).
 
 > The AMDC is a next generation open-source [hardware](https://github.com/Severson-Group/AMDC-Hardware) and [software](https://github.com/Severson-Group/AMDC-Firmware) control platform for power electronics and motor drives, designed and developed for academic applications. AMDC contains high performance dual-core digital signal processors, tightly integrated custom digital logic (FPGA), and a plethora of extremely flexible inputs and outputs (I/O) designed to interface to motor drives.
 
