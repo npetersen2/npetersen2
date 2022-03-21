@@ -1,6 +1,10 @@
+<a href="https://github.com/npetersen2">
+  <img src="https://github-readme-stats.vercel.app/api?username=npetersen2&count_private=true&show_icons=true&hide_rank=false" />
+</a>
+
 ### Welcome
 
-Hey there! I am Nathan Petersen, a grad student at the University of Wisconsin &mdash; Madison.
+Hey there! I am [Nathan Petersen](https://nathanpetersen.com/), a PhD grad student at the [University of Wisconsin–Madison](https://www.wisc.edu/) in the USA.
 
 My research interests involve high-performance electric machine control techniques. ⚡🧲🔋🔌
 
