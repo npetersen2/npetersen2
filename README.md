@@ -1,5 +1,5 @@
 <a href="https://github.com/npetersen2">
-  <img src="https://github-readme-stats.vercel.app/api?username=npetersen2&count_private=true&show_icons=true&hide_rank=false" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=npetersen2&count_private=true&show_icons=true&hide_rank=false" />
 </a>
 
 ### Welcome
@@ -15,10 +15,10 @@ My research interests involve high-performance electric machine control techniqu
 I am the lead architect, engineer, and developer for the Advanced Motor Drive Controller (AMDC) platform: [docs.amdc.dev](https://docs.amdc.dev/).
 
 <a href="https://github.com/Severson-Group/AMDC-Firmware">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Severson-Group&repo=AMDC-Firmware" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Severson-Group&repo=AMDC-Firmware" />
 </a>
 <a href="https://github.com/Severson-Group/AMDC-Hardware">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Severson-Group&repo=AMDC-Hardware" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Severson-Group&repo=AMDC-Hardware" />
 </a>
 <br/>
 
