@@ -12,7 +12,7 @@ During grad school, I was very involved in open-source [projects](https://github
 
 #### Advanced Motor Drive Controller (AMDC)
 
-I was the lead architect, engineer, and developer for the Advanced Motor Drive Controller (AMDC) platform: [docs.amdc.dev](https://docs.amdc.dev/).
+I was the lead architect, engineer, developer, and maintainer for the Advanced Motor Drive Controller (AMDC) platform: [docs.amdc.dev](https://docs.amdc.dev/). After graduating, the platform lives on, supported by several research universities and currently used in lab courses at UW-Madison.
 
 <a href="https://github.com/Severson-Group/AMDC-Firmware">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Severson-Group&repo=AMDC-Firmware" />
