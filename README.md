@@ -1,24 +1,30 @@
-<a href="https://github.com/npetersen2">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=npetersen2&count_private=true&show_icons=true&hide_rank=false" />
-</a>
-
 ### Welcome
 
-Hey there! I am [Nathan Petersen](https://nathanpetersen.com/), a PhD grad student at the [University of Wisconsin–Madison](https://www.wisc.edu/) in the USA.
+Hey there! I am [Nathan Petersen](https://nathanpetersen.com/), an engineer and tinkerer.
 
-My research interests involve high-performance electric machine control techniques. ⚡🧲🔋🔌
+In 2024, I got a PhD in electrical and computer engineering from the [University of Wisconsin–Madison](https://www.wisc.edu/) in the USA, working on advanced electric motor co-design to improve control algorithm performance. ⚡🧲🔋🔌
+
+Now, I work at [Motibera](https://motibera.com/), a startup I formed to commercialize bearing-assist motor and drive technology for commerical and industrial applications. 🚀 Feel free to reach out if you want to learn more - info@motibera.com.
 
 ### Open-Source Projects
 
+During grad school, I was very involved in open-source [projects](https://github.com/Severson-Group/) managed by my [PhD advisor](https://github.com/elsevers).
+
 #### Advanced Motor Drive Controller (AMDC)
 
-I am the lead architect, engineer, and developer for the Advanced Motor Drive Controller (AMDC) platform: [docs.amdc.dev](https://docs.amdc.dev/).
+I was the lead architect, engineer, and developer for the Advanced Motor Drive Controller (AMDC) platform: [docs.amdc.dev](https://docs.amdc.dev/).
 
 <a href="https://github.com/Severson-Group/AMDC-Firmware">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Severson-Group&repo=AMDC-Firmware" />
 </a>
 <a href="https://github.com/Severson-Group/AMDC-Hardware">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Severson-Group&repo=AMDC-Hardware" />
+</a>
+<a href="https://github.com/Severson-Group/docs.amdc.dev">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Severson-Group&repo=docs.amdc.dev" />
+</a>
+<a href="https://github.com/Severson-Group/AMDS">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Severson-Group&repo=AMDS" />
 </a>
 <br/>
 
